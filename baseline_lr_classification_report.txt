@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+  No Payment       0.80      0.63      0.71       197
+     Payment       0.28      0.47      0.35        60
+
+    accuracy                           0.60       257
+   macro avg       0.54      0.55      0.53       257
+weighted avg       0.68      0.60      0.62       257
