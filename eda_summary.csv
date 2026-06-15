@@ -1,0 +1,8 @@
+,0
+n_rows,1000.0
+n_columns,146.0
+payment_rate,0.259
+non_payment_rate,0.741
+never_paid_accounts,247.0
+new_accounts_prior_cycle,255.0
+gender_missing,89.0
